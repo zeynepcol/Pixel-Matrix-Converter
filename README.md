@@ -31,7 +31,7 @@ Computes pixel intensity based on the average RGB values.
 
 **5. C++ Array Output**
 
-Outputs the pixel data in a C++-compatible array format for easy integration.
+Outputs the pixel data in a C++ compatible array format for easy integration.
 
 
 
@@ -39,4 +39,8 @@ Outputs the pixel data in a C++-compatible array format for easy integration.
 
 
 **Python 3.6+** 
+
+
+
+
 **Pillow library (pip install pillow)**
